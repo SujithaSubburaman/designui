@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Designui</string>
+    <string name="loginForm" />
+    <string name="userName" />
+    <string name="password" />
+    <string name="login" />
+</resources>
